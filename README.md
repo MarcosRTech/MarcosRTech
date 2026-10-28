@@ -1,20 +1,6 @@
 ## Marcos Reis
 
-Engenheiro de infraestrutura e SRE, com foco em Google Cloud e AWS e infraestrutura como código em TypeScript.
-
-Trabalho com ambientes de produção multi-cloud: desenho e mantenho a plataforma, conduzo migrações
-e investigo incidentes até a causa raiz.
-
-### Áreas de atuação
-
-- **Plataforma e migração**: migração de cargas de AWS ECS/Fargate para GCP Cloud Run, com Cloud SQL,
-  Memorystore, Cloud NAT e Load Balancing.
-- **Infraestrutura como código**: stacks Pulumi independentes em TypeScript, com estado centralizado,
-  referências entre stacks e verificação de drift contra o ambiente em produção.
-- **Observabilidade e confiabilidade**: APM, logs, profiling e alertas no Datadog; análise de latência,
-  saturação de recursos e comportamento de runtime em Node.js.
-- **Segurança**: WAF com Cloud Armor, SIEM, revisão de exposição de rede e controle de acesso.
-- **Custo**: análise de gastos de cloud e observabilidade e dimensionamento de serviços.
+Engenheiro de infraestrutura e SRE, com foco em Google Cloud e AWS 
 
 ### Tecnologias
 
